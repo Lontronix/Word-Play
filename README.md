@@ -1,1 +1,3 @@
 # Word-Play
+
+Word-Play is a mad-libs like game that I made while I was a senior teacher for an iOS App Development class in High School. I did all of the UI programmatically so I could better understand how Constraints work. In this app I played around with Attributed Strings. After you input Nouns, Verbs and Adjectives you'll see the story with your input bolded. This was done using Attributed Strings. 
